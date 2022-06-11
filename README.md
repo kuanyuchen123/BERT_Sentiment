@@ -8,7 +8,7 @@
 # Usage
 Developed on Python 3.8 and Pytorch
 
-Run Demo file by typing:
+Run Demo:
 ```
 python demo.py
 ```
