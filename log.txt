@@ -1,0 +1,23 @@
+Training Acc:
+Total steps: 56250
+[Epoch 1] Loss: 0.2909, Acc: 0.8796
+
+Testing Acc:
+Total steps: 782
+[Step 0] Accuracy: 0.9219
+[Step 50] Accuracy: 0.9159
+[Step 100] Accuracy: 0.9150
+[Step 150] Accuracy: 0.9150
+[Step 200] Accuracy: 0.9163
+[Step 250] Accuracy: 0.9173
+[Step 300] Accuracy: 0.9169
+[Step 350] Accuracy: 0.9171
+[Step 400] Accuracy: 0.9174
+[Step 450] Accuracy: 0.9174
+[Step 500] Accuracy: 0.9176
+[Step 550] Accuracy: 0.9177
+[Step 600] Accuracy: 0.9179
+[Step 650] Accuracy: 0.9181
+[Step 700] Accuracy: 0.9183
+[Step 750] Accuracy: 0.9184
+Accuracy: 0.9183
