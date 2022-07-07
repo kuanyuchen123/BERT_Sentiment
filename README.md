@@ -5,10 +5,3 @@
  
  Testing Accuracy of 91.83%
 
-# Usage
-Developed on Python 3.8 and Pytorch
-
-Run Demo:
-```
-python demo.py
-```
